@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 cheroot==11.1.2
 jaraco.functools==4.6.0
 more-itertools==11.2.1
 multipart==2.0.1
 web-py==0.76
+=======
+supabase==2.34.0
+supabase-auth==2.34.0
+supabase-functions==2.34.0
+websockets==15.0.1
+>>>>>>> 8885f4d (CREATED configuracion del ambiente virtual)

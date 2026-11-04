@@ -1,2 +1,9 @@
+<<<<<<< HEAD
 *.pyc pycache/ .venv/
 
+=======
+*.pyc
+__pycache__/
+.venv
+.env
+>>>>>>> 8885f4d (CREATED configuracion del ambiente virtual)
